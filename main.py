@@ -8,7 +8,7 @@ from aiogram.enums import ChatMemberStatus
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from aiogram.client.default import DefaultBotProperties
 
-API_TOKEN = "7401774647:AAFiG2GoT3s27Ga9ih8vHNS3RcDPTm8tbPU"
+API_TOKEN = None
 GROUP_CHAT_ID = None  # Пока не знаем chat_id
 
 # Настроим логирование
